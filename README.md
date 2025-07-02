@@ -1,4 +1,4 @@
-# Emphase — Translucent, Minimal Windows 11 Setup
+# Emphase: Translucent, Minimal Windows 11 Setup Guide!
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square)
 ![Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square)
