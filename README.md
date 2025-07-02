@@ -1,4 +1,4 @@
-# Emphase, Translucent Minimal Windows 11 Setup.
+# Emphase — Translucent, Minimal Windows 11 Setup
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square)
 ![Firefox](https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square)
@@ -8,6 +8,13 @@
 A clean, glassy Windows 11 rice with Mica effects, transparent terminals, and a Firefox setup styled to match WinUI design principles.
 
 > **Wallpaper**: [View on Wallhaven](https://wallhaven.cc/w/o5ly2l)
+
+---
+
+<p align="center">
+  <img src="https://github.com/rakhalfps/emphase-rice/blob/main/MEDIA/1.png" width="48%" style="margin-right:4%"/>
+  <img src="https://github.com/rakhalfps/emphase-rice/blob/main/MEDIA/3.png" width="48%"/>
+</p>
 
 ---
 
@@ -33,7 +40,7 @@ Install these tools and mods in the following order:
 ## Firefox Setup
 
 1. **Open Firefox Profile Folder**
-   - Navigate to `about:support` and open your **Profile Folder**
+   - Go to `about:support` and open your **Profile Folder**
 
 2. **Apply Theme**
    - Download [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI)
@@ -41,7 +48,7 @@ Install these tools and mods in the following order:
    - Copy `chrome/` and `user.js` to the profile folder
 
 3. **Enable Transparency**
-   - Open `about:config` and toggle:
+   - Open `about:config` and set the following to `true`:
      ```
      widget.windows.mica
      widget.windows.mica.popups
