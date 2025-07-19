@@ -73,4 +73,3 @@ A clean, translucent Windows 11 rice with Mica effects, transparent terminals, c
 
 ---
 
-Contact: [Twitter](https://twitter.com/habibtahfeez) · [Instagram](https://instagram.com/miqimyeah)
